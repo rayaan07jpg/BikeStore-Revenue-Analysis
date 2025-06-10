@@ -62,7 +62,7 @@ It includes:
 
 | Main Dashboard | Revenue Breakdown |
 |----------------|-------------------|
-| ![Main]([Images/dashboard_main.png](https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis/blob/main/dashboard_main.PNG) | ![Revenue]([Images/detailed_revenue.png](https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis/blob/main/detailed_revenue.PNG) |
+|([Images/dashboard_main.png](https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis/blob/main/dashboard_main.PNG) | ([Images/detailed_revenue.png](https://github.com/rayaan07jpg/BikeStore-Revenue-Analysis/blob/main/detailed_revenue.PNG) |
 
 ---
 
